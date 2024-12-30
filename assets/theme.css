@@ -1,0 +1,19 @@
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #F4F1EA;
+  color: #333;
+}
+
+.header {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #8B4513;
+  color: white;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
