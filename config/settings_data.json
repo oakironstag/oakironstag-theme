@@ -1,3 +1,9 @@
 {
-  "current": "default"
+  "current": "default",
+  "presets": {
+    "default": {
+      "name": "Default",
+      "settings": {}
+    }
+  }
 }
